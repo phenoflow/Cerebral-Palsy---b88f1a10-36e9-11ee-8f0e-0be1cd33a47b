@@ -1,0 +1,57 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/cerebral-palsy---primary.py
+inputModule3:
+  class: File
+  path: python/athetoid-cerebral-palsy---primary.py
+inputModule4:
+  class: File
+  path: python/cerebral-palsy-athetosis---primary.py
+inputModule5:
+  class: File
+  path: python/cerebral-palsy-vogt's---primary.py
+inputModule6:
+  class: File
+  path: python/congenital-cerebral-palsy---primary.py
+inputModule7:
+  class: File
+  path: python/spastic-cerebral-palsy---primary.py
+inputModule8:
+  class: File
+  path: python/cerebral-palsy-infantile---primary.py
+inputModule9:
+  class: File
+  path: python/cerebral-palsy-littles---primary.py
+inputModule10:
+  class: File
+  path: python/diplegic-cerebral-palsy---primary.py
+inputModule11:
+  class: File
+  path: python/cerebral-palsy-paraplegia---primary.py
+inputModule12:
+  class: File
+  path: python/cerebral-palsy-hemiplegia---primary.py
+inputModule13:
+  class: File
+  path: python/other-cerebral-palsy---primary.py
+inputModule14:
+  class: File
+  path: python/ataxic-cerebral-palsy---primary.py
+inputModule15:
+  class: File
+  path: python/cerebral-palsy-worsterdrought---primary.py
+inputModule16:
+  class: File
+  path: python/palsy---primary.py
+inputModule17:
+  class: File
+  path: python/cerebral-palsy---secondary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
